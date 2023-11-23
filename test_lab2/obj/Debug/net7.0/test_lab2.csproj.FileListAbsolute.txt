@@ -1,0 +1,14 @@
+C:\Games\япву\test_lab2\test_lab2\bin\Debug\net7.0\test_lab2.exe
+C:\Games\япву\test_lab2\test_lab2\bin\Debug\net7.0\test_lab2.deps.json
+C:\Games\япву\test_lab2\test_lab2\bin\Debug\net7.0\test_lab2.runtimeconfig.json
+C:\Games\япву\test_lab2\test_lab2\bin\Debug\net7.0\test_lab2.dll
+C:\Games\япву\test_lab2\test_lab2\bin\Debug\net7.0\test_lab2.pdb
+C:\Games\япву\test_lab2\test_lab2\obj\Debug\net7.0\test_lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\япву\test_lab2\test_lab2\obj\Debug\net7.0\test_lab2.AssemblyInfoInputs.cache
+C:\Games\япву\test_lab2\test_lab2\obj\Debug\net7.0\test_lab2.AssemblyInfo.cs
+C:\Games\япву\test_lab2\test_lab2\obj\Debug\net7.0\test_lab2.csproj.CoreCompileInputs.cache
+C:\Games\япву\test_lab2\test_lab2\obj\Debug\net7.0\test_lab2.dll
+C:\Games\япву\test_lab2\test_lab2\obj\Debug\net7.0\refint\test_lab2.dll
+C:\Games\япву\test_lab2\test_lab2\obj\Debug\net7.0\test_lab2.pdb
+C:\Games\япву\test_lab2\test_lab2\obj\Debug\net7.0\test_lab2.genruntimeconfig.cache
+C:\Games\япву\test_lab2\test_lab2\obj\Debug\net7.0\ref\test_lab2.dll
