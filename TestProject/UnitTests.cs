@@ -14,7 +14,7 @@ namespace TestProject
     internal class UnitTests
     {
         // сперва идут обычные юнит тесты
-        [TestCase(5, 5)]
+        [TestCase(5, 6)]
         [TestCase(-12, 12)]
         [TestCase(12.5, 12.5)]
         [TestCase(-10.1234, 10.1234)]

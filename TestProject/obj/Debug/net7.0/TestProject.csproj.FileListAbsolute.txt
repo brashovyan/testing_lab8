@@ -103,3 +103,4 @@ C:\Games\япву\test_lab2\TestProject\obj\Debug\net7.0\refint\TestProject.dll
 C:\Games\япву\test_lab2\TestProject\obj\Debug\net7.0\TestProject.pdb
 C:\Games\япву\test_lab2\TestProject\obj\Debug\net7.0\TestProject.genruntimeconfig.cache
 C:\Games\япву\test_lab2\TestProject\obj\Debug\net7.0\ref\TestProject.dll
+C:\Games\япву\test_lab2\TestProject\obj\Debug\net7.0\TestProject.sourcelink.json
